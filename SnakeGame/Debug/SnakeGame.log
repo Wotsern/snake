@@ -1,0 +1,26 @@
+﻿  AudioHandler.cpp
+  Button.cpp
+  CharacterObject.cpp
+  ControlsMenu.cpp
+  EndingScene.cpp
+C:\Users\kurti\Desktop\Snake - Kurtis Watson\SnakeGame\SnakeGame\EndingScene.cpp(38,16): warning C4018: '<': signed/unsigned mismatch
+  Food.cpp
+  Game.cpp
+  Helpers.cpp
+  MainMenu.cpp
+  MapHandler.cpp
+  Cursor.cpp
+C:\Users\kurti\Desktop\Snake - Kurtis Watson\SnakeGame\SnakeGame\Cursor.cpp(45,6): warning C4551: function call missing argument list
+  MapMenu.cpp
+  MultiplayerMode.cpp
+C:\Users\kurti\Desktop\Snake - Kurtis Watson\SnakeGame\SnakeGame\MultiplayerMode.cpp(15,20): warning C4154: deletion of an array expression; conversion to pointer supplied
+  RuntimeInterface.cpp
+  Snake.cpp
+  SnakeHead.cpp
+  SnakeTail.cpp
+C:\Users\kurti\Desktop\Snake - Kurtis Watson\SnakeGame\SnakeGame\SnakeTail.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Source.cpp
+  SurvivalMode.cpp
+  Vector2.cpp
+  Generating Code...
+  SnakeGame.vcxproj -> C:\Users\kurti\Desktop\Snake - Kurtis Watson\SnakeGame\Debug\SnakeGame.exe
